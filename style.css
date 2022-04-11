@@ -1,0 +1,17 @@
+div.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+div.content {
+    font-family: sans-serif;
+    margin: 30px;
+}
+
+div.content .circle {
+    border: 1px solid #C4C4C4;
+    border-radius: 140px;
+    width: 140px;
+    height: 140px;
+}
