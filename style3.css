@@ -1,0 +1,31 @@
+div.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+div.content {
+    font-family: sans-serif;
+    margin: 30px;
+}
+
+div.content .circle h1{
+    font-size: 44pt;
+    font-weight: bold;
+    color: #C4C4C4;
+}
+
+div.content .circle {
+    border: 1px solid #C4C4C4;
+    border-radius: 140px;
+    width: 140px;
+    height: 140px;
+}
+div.content input[type='button'] {
+    background-color: #9CA1CC;
+    color: white;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    padding: 5px 20px;
+
+}
