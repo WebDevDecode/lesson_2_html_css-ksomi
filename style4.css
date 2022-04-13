@@ -1,0 +1,28 @@
+div.homework4 .row {
+    background-color: rgba(241, 126, 112, 0.15);
+}
+
+div.homework4 .content {
+    background-color: white;
+}
+
+div.homework4 .content h4, h5 {
+    text-align: center;
+}
+
+div.homework4 .content h5 {
+    color: #31B6B0;
+}
+
+div.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+div.content {
+    font-family: sans-serif;
+    margin: 30px;
+}
+
